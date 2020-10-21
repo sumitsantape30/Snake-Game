@@ -1,2 +1,2 @@
 # Snake-Game
-A Snake Game using Python
+A Simple Snake Game using Python
